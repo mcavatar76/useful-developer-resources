@@ -12,6 +12,7 @@ A collection of resources that might be of further use.
 ### Implementations
 * [Eclipse EE4J GitHub page](https://github.com/eclipse-ee4j)
 * [Jakarta EE starter](https://start.jakarta.ee/)
+* [JAXB Binding](https://github.com/highsource/jaxb-tools) for those who are still stuck with JAX-WS, like me :stuck_out_tongue:
 
 ### Additional Resources
 * [Jakarta EE Blog](https://jakarta.ee/blogs/)
