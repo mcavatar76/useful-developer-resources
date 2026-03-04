@@ -12,3 +12,9 @@ A collection of resources that might be of further use.
 ### Implementations
 * [Eclipse EE4J GitHub page](https://github.com/eclipse-ee4j)
 * [Jakarta EE starter](https://start.jakarta.ee/)
+
+### Additional Resources
+* [Jakarta EE Blog](https://jakarta.ee/blogs/)
+* [Adam Bien's Blog](https://adambien.blog/roller/)
+* [Ivar's Jakarta EE Blog](https://www.agilejava.eu/category/hashtag-jakartaee/)
+* [Friends of OpenJDK Jakarta EE](https://foojay.io/today/category/jakartaee/)
