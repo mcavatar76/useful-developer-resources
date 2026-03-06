@@ -19,3 +19,6 @@ A collection of resources that might be of further use.
 * [Adam Bien's Blog](https://adambien.blog/roller/)
 * [Ivar's Jakarta EE Blog](https://www.agilejava.eu/category/hashtag-jakartaee/)
 * [Friends of OpenJDK Jakarta EE](https://foojay.io/today/category/jakartaee/)
+
+### Payara
+* [Payara Blog](https://blog.payara.fish/)
