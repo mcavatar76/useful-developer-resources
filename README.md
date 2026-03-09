@@ -1,6 +1,9 @@
 # useful-developer-resources
 A collection of resources that might be of further use.
 
+## DDD
+* [Domain-driven Refactorings](https://hschwentner.io/domain-driven-refactorings/)
+
 ## Jakarta EE Resources
 
 ### Overview
