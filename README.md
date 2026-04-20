@@ -19,6 +19,7 @@ A collection of resources that might be of further use.
 
 ### Payara
 * [Payara Blog](https://blog.payara.fish/)
+* [Payara Community GitHub](https://github.com/payara/payara)
 * [Payara Starter](https://start.payara.fish/#stb0-st1)
 * [Payara YouTube Channel](https://www.youtube.com/c/PayaraFish/videos)
 
