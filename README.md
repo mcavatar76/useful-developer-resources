@@ -32,3 +32,8 @@ A collection of resources that might be of further use.
 ## Programming in General
 
 * [Free Programming eBooks](https://github.com/EbookFoundation/free-programming-books/tree/main)
+* [Developer Docs](https://devdocs.io/)
+
+### Documentation
+
+* [Red Hat Modular Documentation](https://redhat-documentation.github.io/modular-docs/)
